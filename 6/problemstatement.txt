@@ -1,0 +1,1 @@
+KNN with Glass dataset(Euclidean)
